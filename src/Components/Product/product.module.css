@@ -1,0 +1,10 @@
+.product {
+  border: 2px solid white;
+  margin: 10px;
+  padding: 20px;
+}
+
+.h1 {
+  color: orange;
+  text-align: center;
+}

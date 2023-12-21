@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "image": "./new&Trendy Images/p-6.png",
+    "title": "product-1",
+    "price": "499"
+  },
+  {
+    "id": 2,
+    "image": "./new&Trendy Images/p-8.png",
+    "title": "product-2",
+    "price": "499"
+  },
+  {
+    "id": 3,
+    "image": "./men Images/shoes/mshoe3.png",
+    "title": "product-3",
+    "price": "499"
+  },
+  {
+    "id": 4,
+    "image": "./men Images/shoes/mshoe4.png",
+    "title": "product-4",
+    "price": "499"
+  },
+  {
+    "id": 5,
+    "image": "./men Images/shoes/mshoe5.png",
+    "title": "product-5",
+    "price": "499"
+  },
+  {
+    "id": 6,
+    "image": "./men Images/shoes/mshoe6.png",
+    "title": "product-6",
+    "price": "499"
+  },
+  {
+    "id": 7,
+    "image": "./men Images/shoes/mshoe7.png",
+    "title": "product-7",
+    "price": "499"
+  },
+  {
+    "id": 8,
+    "image": "./men Images/shoes/mshoe8.png",
+    "title": "product-8",
+    "price": "499"
+  },
+  {
+    "id": 9,
+    "image": "./men Images/shoes/mshoe9.png",
+    "title": "product-9",
+    "price": "499"
+  },
+  {
+    "id": 10,
+    "image": "./men Images/shoes/mshoe10.png",
+    "title": "product-10",
+    "price": "499"
+  },
+  {
+    "id": 11,
+    "image": "./men Images/shoes/mshoe11.png",
+    "title": "product-11",
+    "price": "499"
+  }
+]

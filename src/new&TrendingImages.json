@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "image": "./new&Trendy Images/p-5.png",
+    "title": "product-1",
+    "price": "499"
+  },
+  {
+    "id": 2,
+    "image": "./new&Trendy Images/p-6.png",
+    "title": "product-2",
+    "price": "499"
+  },
+  {
+    "id": 3,
+    "image": "./new&Trendy Images/p-7.png",
+    "title": "product-3",
+    "price": "499"
+  },
+  {
+    "id": 4,
+    "image": "./new&Trendy Images/p-8.png",
+    "title": "product-4",
+    "price": "499"
+  },
+  {
+    "id": 5,
+    "image": "./new&Trendy Images/p-9.png",
+    "title": "product-5",
+    "price": "499"
+  },
+  {
+    "id": 6,
+    "image": "./new&Trendy Images/p-29.png",
+    "title": "product-6",
+    "price": "499"
+  },
+  {
+    "id": 7,
+    "image": "./new&Trendy Images/p-31.png",
+    "title": "product-7",
+    "price": "499"
+  },
+  {
+    "id": 8,
+    "image": "./new&Trendy Images/p-32.png",
+    "title": "product-8",
+    "price": "499"
+  },
+  {
+    "id": 9,
+    "image": "./new&Trendy Images/p4.png",
+    "title": "product-9",
+    "price": "499"
+  },
+  {
+    "id": 10,
+    "image": "./new&Trendy Images/p-14.png",
+    "title": "product-10",
+    "price": "499"
+  },
+  {
+    "id": 11,
+    "image": "./new&Trendy Images/p-15.png",
+    "title": "product-11",
+    "price": "499"
+  },
+  {
+    "id": 12,
+    "image": "./new&Trendy Images/p-17.png",
+    "title": "product-13",
+    "price": "499"
+  },
+  {
+    "id": 13,
+    "image": "./new&Trendy Images/p-21.png",
+    "title": "product-14",
+    "price": "499"
+  },
+  {
+    "id": 14,
+    "image": "./new&Trendy Images/p-22.png",
+    "title": "product-15",
+    "price": "499"
+  },
+  {
+    "id": 15,
+    "image": "./new&Trendy Images/p-23.png",
+    "title": "product-16",
+    "price": "499"
+  },
+  {
+    "id": 16,
+    "image": "./new&Trendy Images/p-24.png",
+    "title": "product-17",
+    "price": "499"
+  },
+  {
+    "id": 17,
+    "image": "./new&Trendy Images/p-25.png",
+    "title": "product-18",
+    "price": "499"
+  }
+]

@@ -1,0 +1,32 @@
+.section4 {
+  background-image: url("/public/image/webbanner-4.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: 30% 65%;
+  color: whitesmoke;
+  height: 540px;
+}
+.s4heading {
+  font-size: 100px;
+  position: relative;
+  top: 100px;
+  left: 50px;
+}
+.s4subhead {
+  font-size: 50px;
+  position: relative;
+  top: 120px;
+  left: 50px;
+}
+.buy {
+  background-color: white;
+  color: black;
+  width: 150px;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 10px 20px;
+  cursor: pointer;
+  position: relative;
+  left: 50px;
+  top: 150px;
+}

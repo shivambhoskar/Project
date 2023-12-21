@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "image": "./collection/msandal1.png",
+    "title": "product-1",
+    "price": "399"
+  },
+  {
+    "id": 4,
+    "image": "./collection/msandal4.png",
+    "title": "product-4",
+    "price": "499"
+  },
+  {
+    "id": 5,
+    "image": "./collection/msandal5.png",
+    "title": "product-5",
+    "price": "499"
+  },
+  {
+    "id": 7,
+    "image": "./collection/msandal7.png",
+    "title": "product-7",
+    "price": "499"
+  },
+  {
+    "id": 8,
+    "image": "./collection/msandal8.png",
+    "title": "product-8",
+    "price": "499"
+  },
+  {
+    "id": 10,
+    "image": "./collection/msandal10.png",
+    "title": "product-10",
+    "price": "499"
+  },
+  {
+    "id": 11,
+    "image": "./collection/p-14.png",
+    "title": "product-11",
+    "price": "499"
+  },
+  {
+    "id": 12,
+    "image": "./collection/p-17.png",
+    "title": "product-12",
+    "price": "499"
+  },
+  {
+    "id": 13,
+    "image": "./collection/p-27.png",
+    "title": "product-13",
+    "price": "499"
+  },
+  {
+    "id": 14,
+    "image": "./collection/p-17.png",
+    "title": "product-14",
+    "price": "499"
+  },
+  {
+    "id": 15,
+    "image": "./collection/p-28.png",
+    "title": "product-15",
+    "price": "499"
+  },
+  {
+    "id": 16,
+    "image": "./collection/p-32.png",
+    "title": "product-16",
+    "price": "499"
+  },
+  {
+    "id": 17,
+    "image": "./collection/p-33.png",
+    "title": "product-17",
+    "price": "499"
+  },
+  {
+    "id": 18,
+    "image": "./collection/p-35.png",
+    "title": "product-18",
+    "price": "499"
+  },
+  {
+    "id": 19,
+    "image": "./collection/p34.png",
+    "title": "product-19",
+    "price": "499"
+  }
+]

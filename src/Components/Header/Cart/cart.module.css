@@ -1,0 +1,35 @@
+.cartContainer {
+  margin: 20px;
+  margin-bottom: 100px;
+}
+.cartContainerh1 {
+  color: #fff;
+}
+.emptyCart {
+  color: gray;
+  margin: 190px 0px;
+}
+.emptyCartDes {
+  text-align: center;
+  font-size: 30px;
+}
+.emptyCartLogo {
+  text-align: center;
+  font-size: 120px;
+}
+.noOfCartItems {
+  color: white;
+  font-size: 40px;
+  margin: 0px 0px 20px 20px;
+}
+.cartContainerPaymentBox {
+  display: flex;
+  margin-bottom: 150px;
+}
+.cartContainerItems {
+  display: grid;
+  grid-column: auto;
+}
+.cartPaymentBox {
+  margin-left: 450px;
+}

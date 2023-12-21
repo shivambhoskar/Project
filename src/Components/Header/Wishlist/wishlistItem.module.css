@@ -1,0 +1,48 @@
+.wishlistItem {
+  width: 1000px;
+  display: flex;
+  color: white;
+  margin: 5px;
+  position: relative;
+  left: 270px;
+  padding: 20px;
+  border: 2px solid white;
+}
+.wishlistItem img {
+  width: 250px;
+  height: 250px;
+}
+.wishlistDetails {
+  position: relative;
+  top: 30px;
+  left: 150px;
+}
+.wishlistDetails {
+  font-size: 20px;
+}
+.wishlistTitle {
+  font-size: 30px;
+}
+.wishlistSize {
+  font-size: 25px;
+}
+.wishlistPrice {
+  font-size: 30px;
+  margin: 20px 0px;
+}
+.wishlistButton {
+  position: relative;
+  left: 250px;
+  top: 40px;
+}
+.wishlistButton button {
+  color: black;
+  background-color: white;
+  width: 200px;
+  height: 40px;
+  margin-top: 20px;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+}

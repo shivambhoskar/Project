@@ -1,0 +1,64 @@
+.login {
+  display: flex;
+  color: white;
+  margin-top: 80px;
+  margin-bottom: 260px;
+}
+.image {
+  width: 50%;
+}
+.img {
+  position: relative;
+  top: 100px;
+  left: 130px;
+}
+.logindetails {
+  position: relative;
+  top: 150px;
+}
+.heading div {
+  font-size: 40px;
+  font-weight: 800;
+}
+.heading span {
+  font-size: 20px;
+  font-weight: 400;
+  margin-left: 70px;
+}
+.input {
+  margin-left: 30px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+.input h1 {
+  font-size: 36px;
+  color: #b2f7ef;
+  margin-left: 140px;
+  margin-bottom: 20px;
+}
+.input input {
+  width: 400px;
+  height: 40px;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.button {
+  width: 130px;
+  height: 40px;
+  border-radius: 10px;
+  margin-left: 165px;
+  font-size: 15px;
+  background-color: #b2f7ef;
+}
+.forget {
+  margin-top: 40px;
+  margin-left: 50px;
+  font-size: 18px;
+}
+.forget > a {
+  margin-left: 127px;
+}
+.account {
+  margin-left: 50px;
+}

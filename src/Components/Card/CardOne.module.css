@@ -1,0 +1,34 @@
+.section2 {
+  width: 100vw;
+  color: white;
+}
+.section2 h1 {
+  margin: 30px;
+}
+
+.card {
+  display: flex;
+  overflow: auto;
+}
+.card::-webkit-scrollbar {
+  width: 5px;
+}
+.block3 {
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+.block3 img {
+  width: 200px;
+  height: 200px;
+}
+.block3 div {
+  padding: 5px 25px;
+  /* background-color: #d8f3dc; */
+  text-align: center;
+}
+.block3:hover {
+  border: 1px solid white;
+}
+.block3 div h3 {
+  margin: 15px 0px;
+}

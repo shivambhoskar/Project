@@ -1,0 +1,44 @@
+.section1 {
+  margin-top: 80px;
+  height: 730px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-image: url("/public/image/webbanner-1.png");
+  background-size: cover;
+}
+.block1 div {
+  color: #b2f7ef;
+  width: 500px;
+  height: auto;
+  margin-left: -350px;
+  font-size: 90px;
+  line-height: 0.9;
+  font-weight: 5000;
+  font-family: "Bebas Neue", cursive;
+}
+.block2 {
+  position: relative;
+  top: 150px;
+  right: -200px;
+}
+.block2 li {
+  margin-bottom: 20px;
+  padding: 10px;
+  color: white;
+  background-color: black;
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 320px) {
+  .section1 {
+    margin-top: 80px;
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-size: 100% 100%;
+  }
+}

@@ -1,0 +1,16 @@
+.section2 {
+  width: 100vw;
+  color: white;
+  overflow: auto;
+}
+.section2 h1 {
+  margin: 30px;
+}
+
+.card {
+  display: flex;
+  overflow: auto;
+}
+.card::-webkit-scrollbar {
+  width: 5px;
+}

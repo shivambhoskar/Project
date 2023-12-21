@@ -1,0 +1,115 @@
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 80px;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: transparent;
+  padding: 15px 3%;
+  transition: all 0.5s ease;
+  background-color: #d8f3dc;
+}
+/* Navbar*/
+
+.navbar {
+  display: flex;
+  align-items: center;
+  margin-right: 160px;
+}
+.navbar li {
+  font-size: 1.1rem;
+  font-weight: 800;
+  padding: 5px 0;
+  margin: 0px 20px;
+  transition: all 0.5s ease;
+  color: #5b2c6f;
+  cursor: pointer;
+}
+.navbar li:hover {
+  text-decoration: underline;
+  line-height: 5px;
+}
+
+.sign {
+  display: flex;
+  align-items: center;
+  position: relative;
+  right: 0px;
+}
+.sign i {
+  margin-right: 25px;
+  color: black;
+  font-size: 1.1rem;
+  font-weight: 500;
+  transition: all 0.5s ease;
+}
+.search {
+  height: 30px;
+  margin-right: 20px;
+  font-size: 15px;
+  font-weight: 600;
+  padding-left: 20px;
+  color: white;
+  border: none;
+  background-color: black;
+}
+.user {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 25px;
+  height: 50px;
+}
+.user i {
+  font-size: 28px;
+}
+.sign i:hover {
+  line-height: 50px;
+}
+.menubar {
+  font-size: 35px;
+  color: black;
+  cursor: pointer;
+  z-index: 10001;
+  display: none;
+}
+.cart i {
+  font-size: 25px;
+  cursor: pointer;
+}
+.menu {
+  display: none;
+}
+@media only screen and (max-width: 320px) {
+  header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 130px;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: transparent;
+    padding: 15px 3%;
+    transition: all 0.5s ease;
+    background-color: #d8f3dc;
+  }
+  .navbar li {
+    display: none;
+  }
+  .menu {
+    display: block;
+    font-size: 55px;
+  }
+  .logo {
+    font-size: 50px;
+  }
+  .sign i {
+    font-size: 50px;
+  }
+}

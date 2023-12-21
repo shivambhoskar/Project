@@ -1,0 +1,31 @@
+.menSlider {
+  width: 100vw;
+  height: 30vh;
+  color: white;
+  background-color: black;
+}
+.list {
+  display: flex;
+  font-size: 30px;
+  justify-content: center;
+  padding-top: 30px;
+}
+
+.list li {
+  margin: 30px;
+}
+.list li:hover {
+  text-decoration: underline;
+}
+.icon {
+  position: relative;
+  width: 50px;
+  left: 50vw;
+  top: 2vh;
+  font-size: 40px;
+  cursor: pointer;
+  padding: 10px;
+}
+.icon:hover {
+  color: aqua;
+}

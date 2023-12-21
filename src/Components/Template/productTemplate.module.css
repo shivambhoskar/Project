@@ -1,0 +1,21 @@
+.block3 {
+  /* display: flex;
+    justify-content: space-around; */
+  margin: 20px;
+}
+.block3 img {
+  width: 200px;
+  height: 200px;
+}
+.block3 div {
+  height: 300px;
+  padding: 0px 25px;
+  /* background-color: #d8f3dc; */
+  text-align: center;
+}
+.block3:hover {
+  border: 1px solid white;
+}
+.block3 div h3 {
+  margin: 10px 0px;
+}

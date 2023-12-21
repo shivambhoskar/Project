@@ -1,0 +1,17 @@
+.section2 {
+  /* position: relative;
+  top: 100px; */
+  width: 100vw;
+  color: white;
+  overflow: auto;
+}
+.section2 h1 {
+  margin: 30px;
+}
+.section2::-webkit-scrollbar {
+  width: 5px;
+}
+.card {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}

@@ -1,0 +1,45 @@
+.footer {
+  margin-top: 50px;
+  height: 400px;
+  display: flex;
+  color: white;
+}
+.f1 {
+  position: relative;
+  top: 100px;
+  margin-top: 40px;
+  margin-left: 70px;
+}
+.f1 h3 {
+  margin-bottom: 20px;
+}
+.f1 ul {
+  margin-top: 44px;
+}
+.f1 li {
+  margin-top: 15px;
+}
+.vertical {
+  border-left: 2px solid white;
+  height: 350px;
+  position: relative;
+  top: 60px;
+  left: 130px;
+}
+.follow {
+  position: relative;
+  top: 100px;
+  left: 340px;
+  margin-bottom: 5px;
+  text-decoration: underline;
+}
+.social {
+  display: flex;
+  position: relative;
+  top: 100px;
+  left: 140px;
+}
+.social li {
+  margin: 30px;
+  font-size: 50px;
+}

@@ -1,0 +1,30 @@
+.section3 {
+  background-image: url("/public/image/webbanner-2.png");
+  background-size: 100% 95%;
+  background-repeat: no-repeat;
+  margin-top: 20px;
+  height: 650px;
+  color: white;
+}
+.running {
+  position: relative;
+  left: 1000px;
+  top: 200px;
+}
+.running p {
+  font-size: 40px;
+}
+.nitro {
+  color: goldenrod;
+}
+.buy {
+  background-color: black;
+  color: white;
+  width: 150px;
+  font-size: 20px;
+  padding: 10px 20px;
+  cursor: pointer;
+  position: relative;
+  left: 1000px;
+  top: 250px;
+}

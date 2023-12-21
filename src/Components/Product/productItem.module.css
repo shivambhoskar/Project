@@ -1,0 +1,93 @@
+.productItem {
+  display: flex;
+  color: white;
+  margin: 5px;
+  position: relative;
+  left: 200px;
+}
+.productImage img {
+  width: 400px;
+  height: 500px;
+}
+.productDetails {
+  position: relative;
+  left: 200px;
+}
+.productTitle {
+  font-size: 50px;
+}
+.productPrice {
+  font-size: 30px;
+  margin: 20px 0px;
+}
+.productButton {
+  margin-top: 0px;
+}
+.productButton button {
+  color: black;
+  background-color: white;
+  width: 350px;
+  height: 50px;
+  margin-top: 30px;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+}
+.sizeQuantity {
+  display: flex;
+}
+.cartItemQuantity {
+  width: 69px;
+  height: 59px;
+  margin-top: 14px;
+}
+.container {
+  display: inline-block;
+  position: relative;
+  padding-left: 70px;
+  cursor: pointer;
+  font-size: 22px;
+  text-align: center;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default radio button */
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+/* Create a custom radio button */
+.checkmark {
+  border: 1px solid white;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 59px;
+  width: 69px;
+  padding-top: 15px;
+  background-color: black;
+}
+
+/* On mouse-over, add a grey background color */
+/* .container:hover input ~ .checkmark {
+  background-color: #ccc;
+} */
+
+/* When the radio button is checked, add a blue background */
+.container input:checked ~ .checkmark {
+  background-color: white;
+  color: black;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}

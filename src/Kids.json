@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "image": "./kids Images/Kshoe1.png",
+    "title": "product-1",
+    "price": "4xx"
+  },
+  {
+    "id": 2,
+    "image": "./kids Images/Kshoe2.png",
+    "title": "product-2",
+    "price": "499"
+  },
+  {
+    "id": 3,
+    "image": "./kids Images/Kshoe3.png",
+    "title": "product-3",
+    "price": "499"
+  },
+  {
+    "id": 4,
+    "image": "./kids Images/Kshoe4.png",
+    "title": "product-4",
+    "price": "499"
+  },
+  {
+    "id": 5,
+    "image": "./kids Images/Kshoe5.png",
+    "price": "499"
+  },
+  {
+    "id": 6,
+    "image": "./kids Images/Kshoe6.png",
+    "title": "product-6",
+    "price": "499"
+  },
+  {
+    "id": 7,
+    "image": "./kids Images/Kshoe7.png",
+    "title": "product-7",
+    "price": "499"
+  },
+  {
+    "id": 8,
+    "image": "./kids Images/Kshoe8.png",
+    "title": "product-8",
+    "price": "499"
+  },
+  {
+    "id": 9,
+    "image": "./kids Images/Kshoe9.png",
+    "title": "product-9",
+    "price": "499"
+  },
+  {
+    "id": 10,
+    "image": "./kids Images/Kshoe10.png",
+    "title": "product-10",
+    "price": "499"
+  }
+]
